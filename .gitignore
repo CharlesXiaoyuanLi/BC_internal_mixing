@@ -1,0 +1,22 @@
+# no .a .o files
+*.[oa]
+
+# no .nc files
+*.nc
+
+# no .ps .png ... graphic files
+*.ps
+*.png
+
+# no .pdf files
+*.pdf
+
+# ignore plot figure folders
+plot/
+figures/
+new figures/
+
+# ignore the following specified folders
+albedo/
+rh/
+bc_orig/

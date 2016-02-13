@@ -1,0 +1,299 @@
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT TOA RF = -0.577922
+(0)	ALL INT TOA RF = -0.448386
+(0)	ALL delta INT TOA RF = 0.129536
+(0)	BC EXT TOA RF = 0.0591265
+(0)	SUL EXT TOA RF = -0.635612
+(0)	China  ALL EXT TOA RF = -0.13044
+(0)	China  ALL INT TOA RF = 0.114788
+(0)	China  ALL delta INT TOA RF = 0.245228
+(0)	China  BC EXT TOA RF = 0.11591
+(0)	China  SUL EXT TOA RF = -0.245514
+(0)	WarmPool  ALL EXT TOA RF = -1.35482
+(0)	WarmPool  ALL INT TOA RF = -1.18488
+(0)	WarmPool  ALL delta INT TOA RF = 0.169945
+(0)	WarmPool  BC EXT TOA RF = 0.0308243
+(0)	WarmPool  SUL EXT TOA RF = -1.38384
+(0)	W-Africa  ALL EXT TOA RF = -0.194966
+(0)	W-Africa  ALL INT TOA RF = 0.409657
+(0)	W-Africa  ALL delta INT TOA RF = 0.604623
+(0)	W-Africa  BC EXT TOA RF = 0.464988
+(0)	W-Africa  SUL EXT TOA RF = -0.651855
+(0)	E-Africa  ALL EXT TOA RF = -0.27566
+(0)	E-Africa  ALL INT TOA RF = 0.202611
+(0)	E-Africa  ALL delta INT TOA RF = 0.478272
+(0)	E-Africa  BC EXT TOA RF = 0.375753
+(0)	E-Africa  SUL EXT TOA RF = -0.646728
+(0)	S-Africa  ALL EXT TOA RF = -0.261427
+(0)	S-Africa  ALL INT TOA RF = 0.185378
+(0)	S-Africa  ALL delta INT TOA RF = 0.446804
+(0)	S-Africa  BC EXT TOA RF = 0.306478
+(0)	S-Africa  SUL EXT TOA RF = -0.564514
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT TOA RF = -0.632869
+(0)	ALL INT TOA RF = -0.479778
+(0)	ALL delta INT TOA RF = 0.153091
+(0)	BC EXT TOA RF = 0.0710405
+(0)	SUL EXT TOA RF = -0.696196
+(0)	China  ALL EXT TOA RF = -0.142152
+(0)	China  ALL INT TOA RF = 0.121398
+(0)	China  ALL delta INT TOA RF = 0.26355
+(0)	China  BC EXT TOA RF = 0.124306
+(0)	China  SUL EXT TOA RF = -0.265521
+(0)	WarmPool  ALL EXT TOA RF = -1.37328
+(0)	WarmPool  ALL INT TOA RF = -1.18962
+(0)	WarmPool  ALL delta INT TOA RF = 0.183654
+(0)	WarmPool  BC EXT TOA RF = 0.0341327
+(0)	WarmPool  SUL EXT TOA RF = -1.40544
+(0)	W-Africa  ALL EXT TOA RF = -0.289756
+(0)	W-Africa  ALL INT TOA RF = 0.385665
+(0)	W-Africa  ALL delta INT TOA RF = 0.675421
+(0)	W-Africa  BC EXT TOA RF = 0.536108
+(0)	W-Africa  SUL EXT TOA RF = -0.764537
+(0)	E-Africa  ALL EXT TOA RF = -0.299499
+(0)	E-Africa  ALL INT TOA RF = 0.199508
+(0)	E-Africa  ALL delta INT TOA RF = 0.499007
+(0)	E-Africa  BC EXT TOA RF = 0.403581
+(0)	E-Africa  SUL EXT TOA RF = -0.676595
+(0)	S-Africa  ALL EXT TOA RF = -0.2511
+(0)	S-Africa  ALL INT TOA RF = 0.185871
+(0)	S-Africa  ALL delta INT TOA RF = 0.436971
+(0)	S-Africa  BC EXT TOA RF = 0.295004
+(0)	S-Africa  SUL EXT TOA RF = -0.542957
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT TOA RF = -0.732634
+(0)	ALL INT TOA RF = -0.550716
+(0)	ALL delta INT TOA RF = 0.181918
+(0)	BC EXT TOA RF = 0.0721113
+(0)	SUL EXT TOA RF = -0.801906
+(0)	China  ALL EXT TOA RF = -0.192446
+(0)	China  ALL INT TOA RF = 0.121598
+(0)	China  ALL delta INT TOA RF = 0.314044
+(0)	China  BC EXT TOA RF = 0.134492
+(0)	China  SUL EXT TOA RF = -0.325649
+(0)	WarmPool  ALL EXT TOA RF = -1.43957
+(0)	WarmPool  ALL INT TOA RF = -1.23852
+(0)	WarmPool  ALL delta INT TOA RF = 0.201049
+(0)	WarmPool  BC EXT TOA RF = 0.0381685
+(0)	WarmPool  SUL EXT TOA RF = -1.47542
+(0)	W-Africa  ALL EXT TOA RF = -0.373154
+(0)	W-Africa  ALL INT TOA RF = 0.366602
+(0)	W-Africa  ALL delta INT TOA RF = 0.739756
+(0)	W-Africa  BC EXT TOA RF = 0.50964
+(0)	W-Africa  SUL EXT TOA RF = -0.872358
+(0)	E-Africa  ALL EXT TOA RF = -0.332279
+(0)	E-Africa  ALL INT TOA RF = 0.210694
+(0)	E-Africa  ALL delta INT TOA RF = 0.542973
+(0)	E-Africa  BC EXT TOA RF = 0.400653
+(0)	E-Africa  SUL EXT TOA RF = -0.727385
+(0)	S-Africa  ALL EXT TOA RF = -0.274446
+(0)	S-Africa  ALL INT TOA RF = 0.180435
+(0)	S-Africa  ALL delta INT TOA RF = 0.454881
+(0)	S-Africa  BC EXT TOA RF = 0.302502
+(0)	S-Africa  SUL EXT TOA RF = -0.573563
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT TOA RF = -0.833854
+(0)	ALL INT TOA RF = -0.635271
+(0)	ALL delta INT TOA RF = 0.198583
+(0)	BC EXT TOA RF = 0.0742815
+(0)	SUL EXT TOA RF = -0.904799
+(0)	China  ALL EXT TOA RF = -0.32212
+(0)	China  ALL INT TOA RF = 0.0889522
+(0)	China  ALL delta INT TOA RF = 0.411072
+(0)	China  BC EXT TOA RF = 0.156644
+(0)	China  SUL EXT TOA RF = -0.476497
+(0)	WarmPool  ALL EXT TOA RF = -1.55347
+(0)	WarmPool  ALL INT TOA RF = -1.32173
+(0)	WarmPool  ALL delta INT TOA RF = 0.231737
+(0)	WarmPool  BC EXT TOA RF = 0.0451507
+(0)	WarmPool  SUL EXT TOA RF = -1.59568
+(0)	W-Africa  ALL EXT TOA RF = -0.513594
+(0)	W-Africa  ALL INT TOA RF = 0.337896
+(0)	W-Africa  ALL delta INT TOA RF = 0.85149
+(0)	W-Africa  BC EXT TOA RF = 0.552372
+(0)	W-Africa  SUL EXT TOA RF = -1.05297
+(0)	E-Africa  ALL EXT TOA RF = -0.413338
+(0)	E-Africa  ALL INT TOA RF = 0.196396
+(0)	E-Africa  ALL delta INT TOA RF = 0.609734
+(0)	E-Africa  BC EXT TOA RF = 0.42115
+(0)	E-Africa  SUL EXT TOA RF = -0.827545
+(0)	S-Africa  ALL EXT TOA RF = -0.396853
+(0)	S-Africa  ALL INT TOA RF = 0.128283
+(0)	S-Africa  ALL delta INT TOA RF = 0.525137
+(0)	S-Africa  BC EXT TOA RF = 0.314431
+(0)	S-Africa  SUL EXT TOA RF = -0.706858
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT TOA RF = -1.00888
+(0)	ALL INT TOA RF = -0.781861
+(0)	ALL delta INT TOA RF = 0.22702
+(0)	BC EXT TOA RF = 0.0785482
+(0)	SUL EXT TOA RF = -1.08341
+(0)	China  ALL EXT TOA RF = -0.873498
+(0)	China  ALL INT TOA RF = -0.19674
+(0)	China  ALL delta INT TOA RF = 0.676758
+(0)	China  BC EXT TOA RF = 0.211859
+(0)	China  SUL EXT TOA RF = -1.07832
+(0)	WarmPool  ALL EXT TOA RF = -1.64282
+(0)	WarmPool  ALL INT TOA RF = -1.36795
+(0)	WarmPool  ALL delta INT TOA RF = 0.27487
+(0)	WarmPool  BC EXT TOA RF = 0.0557934
+(0)	WarmPool  SUL EXT TOA RF = -1.69488
+(0)	W-Africa  ALL EXT TOA RF = -0.902754
+(0)	W-Africa  ALL INT TOA RF = 0.122181
+(0)	W-Africa  ALL delta INT TOA RF = 1.02493
+(0)	W-Africa  BC EXT TOA RF = 0.604517
+(0)	W-Africa  SUL EXT TOA RF = -1.48925
+(0)	E-Africa  ALL EXT TOA RF = -0.572455
+(0)	E-Africa  ALL INT TOA RF = 0.143784
+(0)	E-Africa  ALL delta INT TOA RF = 0.716239
+(0)	E-Africa  BC EXT TOA RF = 0.472625
+(0)	E-Africa  SUL EXT TOA RF = -1.03556
+(0)	S-Africa  ALL EXT TOA RF = -0.711268
+(0)	S-Africa  ALL INT TOA RF = -0.00816613
+(0)	S-Africa  ALL delta INT TOA RF = 0.703101
+(0)	S-Africa  BC EXT TOA RF = 0.368735
+(0)	S-Africa  SUL EXT TOA RF = -1.07183
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT TOA RF = -1.39235
+(0)	ALL INT TOA RF = -1.0884
+(0)	ALL delta INT TOA RF = 0.303945
+(0)	BC EXT TOA RF = 0.101329
+(0)	SUL EXT TOA RF = -1.48651
+(0)	China  ALL EXT TOA RF = -2.06231
+(0)	China  ALL INT TOA RF = -0.774123
+(0)	China  ALL delta INT TOA RF = 1.28818
+(0)	China  BC EXT TOA RF = 0.369151
+(0)	China  SUL EXT TOA RF = -2.40481
+(0)	WarmPool  ALL EXT TOA RF = -2.17866
+(0)	WarmPool  ALL INT TOA RF = -1.67154
+(0)	WarmPool  ALL delta INT TOA RF = 0.50712
+(0)	WarmPool  BC EXT TOA RF = 0.11581
+(0)	WarmPool  SUL EXT TOA RF = -2.28436
+(0)	W-Africa  ALL EXT TOA RF = -1.55739
+(0)	W-Africa  ALL INT TOA RF = -0.105392
+(0)	W-Africa  ALL delta INT TOA RF = 1.45199
+(0)	W-Africa  BC EXT TOA RF = 0.821395
+(0)	W-Africa  SUL EXT TOA RF = -2.34437
+(0)	E-Africa  ALL EXT TOA RF = -0.780492
+(0)	E-Africa  ALL INT TOA RF = 0.0793434
+(0)	E-Africa  ALL delta INT TOA RF = 0.859836
+(0)	E-Africa  BC EXT TOA RF = 0.593769
+(0)	E-Africa  SUL EXT TOA RF = -1.3598
+(0)	S-Africa  ALL EXT TOA RF = -1.46568
+(0)	S-Africa  ALL INT TOA RF = -0.339446
+(0)	S-Africa  ALL delta INT TOA RF = 1.12623
+(0)	S-Africa  BC EXT TOA RF = 0.522127
+(0)	S-Africa  SUL EXT TOA RF = -1.96509
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT TOA RF = -1.58389
+(0)	ALL INT TOA RF = -1.1877
+(0)	ALL delta INT TOA RF = 0.396195
+(0)	BC EXT TOA RF = 0.138714
+(0)	SUL EXT TOA RF = -1.71096
+(0)	China  ALL EXT TOA RF = -3.40903
+(0)	China  ALL INT TOA RF = -1.17852
+(0)	China  ALL delta INT TOA RF = 2.2305
+(0)	China  BC EXT TOA RF = 0.645841
+(0)	China  SUL EXT TOA RF = -3.98401
+(0)	WarmPool  ALL EXT TOA RF = -3.17839
+(0)	WarmPool  ALL INT TOA RF = -2.05164
+(0)	WarmPool  ALL delta INT TOA RF = 1.12675
+(0)	WarmPool  BC EXT TOA RF = 0.304011
+(0)	WarmPool  SUL EXT TOA RF = -3.44428
+(0)	W-Africa  ALL EXT TOA RF = -2.04665
+(0)	W-Africa  ALL INT TOA RF = -0.100136
+(0)	W-Africa  ALL delta INT TOA RF = 1.94652
+(0)	W-Africa  BC EXT TOA RF = 1.0643
+(0)	W-Africa  SUL EXT TOA RF = -3.05644
+(0)	E-Africa  ALL EXT TOA RF = -1.09703
+(0)	E-Africa  ALL INT TOA RF = 0.105977
+(0)	E-Africa  ALL delta INT TOA RF = 1.203
+(0)	E-Africa  BC EXT TOA RF = 0.787042
+(0)	E-Africa  SUL EXT TOA RF = -1.85922
+(0)	S-Africa  ALL EXT TOA RF = -1.28717
+(0)	S-Africa  ALL INT TOA RF = -0.0546974
+(0)	S-Africa  ALL delta INT TOA RF = 1.23248
+(0)	S-Africa  BC EXT TOA RF = 0.631749
+(0)	S-Africa  SUL EXT TOA RF = -1.8944

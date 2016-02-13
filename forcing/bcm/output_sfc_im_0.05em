@@ -1,0 +1,299 @@
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT Surface RF = -0.771762
+(0)	ALL INT Surface RF = -1.07885
+(0)	ALL delta INT Surface RF = -0.307088
+(0)	BC EXT Surface RF = -0.17946
+(0)	SUL EXT Surface RF = -0.464347
+(0)	China  ALL EXT Surface RF = -0.506738
+(0)	China  ALL INT Surface RF = -0.881414
+(0)	China  ALL delta INT Surface RF = -0.374675
+(0)	China  BC EXT Surface RF = -0.277836
+(0)	China  SUL EXT Surface RF = -0.0351777
+(0)	WarmPool  ALL EXT Surface RF = -1.45497
+(0)	WarmPool  ALL INT Surface RF = -1.94664
+(0)	WarmPool  ALL delta INT Surface RF = -0.491674
+(0)	WarmPool  BC EXT Surface RF = -0.166559
+(0)	WarmPool  SUL EXT Surface RF = -1.16441
+(0)	W-Africa  ALL EXT Surface RF = -1.58279
+(0)	W-Africa  ALL INT Surface RF = -2.86233
+(0)	W-Africa  ALL delta INT Surface RF = -1.27954
+(0)	W-Africa  BC EXT Surface RF = -0.992438
+(0)	W-Africa  SUL EXT Surface RF = 0.131537
+(0)	E-Africa  ALL EXT Surface RF = -1.49696
+(0)	E-Africa  ALL INT Surface RF = -2.59741
+(0)	E-Africa  ALL delta INT Surface RF = -1.10045
+(0)	E-Africa  BC EXT Surface RF = -0.892729
+(0)	E-Africa  SUL EXT Surface RF = 0.0466532
+(0)	S-Africa  ALL EXT Surface RF = -1.24411
+(0)	S-Africa  ALL INT Surface RF = -2.13568
+(0)	S-Africa  ALL delta INT Surface RF = -0.891573
+(0)	S-Africa  BC EXT Surface RF = -0.714321
+(0)	S-Africa  SUL EXT Surface RF = -0.0125827
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT Surface RF = -0.843631
+(0)	ALL INT Surface RF = -1.1493
+(0)	ALL delta INT Surface RF = -0.305671
+(0)	BC EXT Surface RF = -0.182615
+(0)	SUL EXT Surface RF = -0.50957
+(0)	China  ALL EXT Surface RF = -0.543956
+(0)	China  ALL INT Surface RF = -0.903572
+(0)	China  ALL delta INT Surface RF = -0.359616
+(0)	China  BC EXT Surface RF = -0.296562
+(0)	China  SUL EXT Surface RF = -0.0406576
+(0)	WarmPool  ALL EXT Surface RF = -1.49121
+(0)	WarmPool  ALL INT Surface RF = -1.98548
+(0)	WarmPool  ALL delta INT Surface RF = -0.494269
+(0)	WarmPool  BC EXT Surface RF = -0.184084
+(0)	WarmPool  SUL EXT Surface RF = -1.17003
+(0)	W-Africa  ALL EXT Surface RF = -1.71281
+(0)	W-Africa  ALL INT Surface RF = -3.10664
+(0)	W-Africa  ALL delta INT Surface RF = -1.39383
+(0)	W-Africa  BC EXT Surface RF = -0.962132
+(0)	W-Africa  SUL EXT Surface RF = 0.0561329
+(0)	E-Africa  ALL EXT Surface RF = -1.54036
+(0)	E-Africa  ALL INT Surface RF = -2.64709
+(0)	E-Africa  ALL delta INT Surface RF = -1.10673
+(0)	E-Africa  BC EXT Surface RF = -0.875295
+(0)	E-Africa  SUL EXT Surface RF = 0.0304346
+(0)	S-Africa  ALL EXT Surface RF = -1.20046
+(0)	S-Africa  ALL INT Surface RF = -2.01313
+(0)	S-Africa  ALL delta INT Surface RF = -0.812672
+(0)	S-Africa  BC EXT Surface RF = -0.690482
+(0)	S-Africa  SUL EXT Surface RF = -0.00944842
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT Surface RF = -0.959579
+(0)	ALL INT Surface RF = -1.36722
+(0)	ALL delta INT Surface RF = -0.407643
+(0)	BC EXT Surface RF = -0.211803
+(0)	SUL EXT Surface RF = -0.595257
+(0)	China  ALL EXT Surface RF = -0.625935
+(0)	China  ALL INT Surface RF = -1.14929
+(0)	China  ALL delta INT Surface RF = -0.523354
+(0)	China  BC EXT Surface RF = -0.321928
+(0)	China  SUL EXT Surface RF = -0.0792313
+(0)	WarmPool  ALL EXT Surface RF = -1.57602
+(0)	WarmPool  ALL INT Surface RF = -2.17834
+(0)	WarmPool  ALL delta INT Surface RF = -0.602321
+(0)	WarmPool  BC EXT Surface RF = -0.202832
+(0)	WarmPool  SUL EXT Surface RF = -1.2219
+(0)	W-Africa  ALL EXT Surface RF = -1.84846
+(0)	W-Africa  ALL INT Surface RF = -3.3443
+(0)	W-Africa  ALL delta INT Surface RF = -1.49583
+(0)	W-Africa  BC EXT Surface RF = -1.06283
+(0)	W-Africa  SUL EXT Surface RF = -0.00831024
+(0)	E-Africa  ALL EXT Surface RF = -1.63233
+(0)	E-Africa  ALL INT Surface RF = -2.85604
+(0)	E-Africa  ALL delta INT Surface RF = -1.2237
+(0)	E-Africa  BC EXT Surface RF = -0.952543
+(0)	E-Africa  SUL EXT Surface RF = 0.0157706
+(0)	S-Africa  ALL EXT Surface RF = -1.24508
+(0)	S-Africa  ALL INT Surface RF = -2.14604
+(0)	S-Africa  ALL delta INT Surface RF = -0.900961
+(0)	S-Africa  BC EXT Surface RF = -0.706636
+(0)	S-Africa  SUL EXT Surface RF = -0.0261078
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT Surface RF = -1.06018
+(0)	ALL INT Surface RF = -1.44439
+(0)	ALL delta INT Surface RF = -0.384215
+(0)	BC EXT Surface RF = -0.216902
+(0)	SUL EXT Surface RF = -0.686068
+(0)	China  ALL EXT Surface RF = -0.815246
+(0)	China  ALL INT Surface RF = -1.3708
+(0)	China  ALL delta INT Surface RF = -0.555555
+(0)	China  BC EXT Surface RF = -0.369791
+(0)	China  SUL EXT Surface RF = -0.185216
+(0)	WarmPool  ALL EXT Surface RF = -1.72153
+(0)	WarmPool  ALL INT Surface RF = -2.32658
+(0)	WarmPool  ALL delta INT Surface RF = -0.605047
+(0)	WarmPool  BC EXT Surface RF = -0.236132
+(0)	WarmPool  SUL EXT Surface RF = -1.30876
+(0)	W-Africa  ALL EXT Surface RF = -2.08595
+(0)	W-Africa  ALL INT Surface RF = -3.69092
+(0)	W-Africa  ALL delta INT Surface RF = -1.60497
+(0)	W-Africa  BC EXT Surface RF = -1.137
+(0)	W-Africa  SUL EXT Surface RF = -0.113873
+(0)	E-Africa  ALL EXT Surface RF = -1.76894
+(0)	E-Africa  ALL INT Surface RF = -3.05026
+(0)	E-Africa  ALL delta INT Surface RF = -1.28132
+(0)	E-Africa  BC EXT Surface RF = -0.994628
+(0)	E-Africa  SUL EXT Surface RF = -0.0467233
+(0)	S-Africa  ALL EXT Surface RF = -1.39603
+(0)	S-Africa  ALL INT Surface RF = -2.3453
+(0)	S-Africa  ALL delta INT Surface RF = -0.949265
+(0)	S-Africa  BC EXT Surface RF = -0.732674
+(0)	S-Africa  SUL EXT Surface RF = -0.131238
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT Surface RF = -1.236
+(0)	ALL INT Surface RF = -1.72032
+(0)	ALL delta INT Surface RF = -0.484312
+(0)	BC EXT Surface RF = -0.228167
+(0)	SUL EXT Surface RF = -0.84102
+(0)	China  ALL EXT Surface RF = -1.49824
+(0)	China  ALL INT Surface RF = -2.4691
+(0)	China  ALL delta INT Surface RF = -0.97086
+(0)	China  BC EXT Surface RF = -0.486819
+(0)	China  SUL EXT Surface RF = -0.661185
+(0)	WarmPool  ALL EXT Surface RF = -1.86513
+(0)	WarmPool  ALL INT Surface RF = -2.63823
+(0)	WarmPool  ALL delta INT Surface RF = -0.773104
+(0)	WarmPool  BC EXT Surface RF = -0.285473
+(0)	WarmPool  SUL EXT Surface RF = -1.36566
+(0)	W-Africa  ALL EXT Surface RF = -2.57421
+(0)	W-Africa  ALL INT Surface RF = -4.53689
+(0)	W-Africa  ALL delta INT Surface RF = -1.96268
+(0)	W-Africa  BC EXT Surface RF = -1.2352
+(0)	W-Africa  SUL EXT Surface RF = -0.422476
+(0)	E-Africa  ALL EXT Surface RF = -2.06613
+(0)	E-Africa  ALL INT Surface RF = -3.61577
+(0)	E-Africa  ALL delta INT Surface RF = -1.54964
+(0)	E-Africa  BC EXT Surface RF = -1.09792
+(0)	E-Africa  SUL EXT Surface RF = -0.162526
+(0)	S-Africa  ALL EXT Surface RF = -1.84534
+(0)	S-Africa  ALL INT Surface RF = -3.17932
+(0)	S-Africa  ALL delta INT Surface RF = -1.33398
+(0)	S-Africa  BC EXT Surface RF = -0.839977
+(0)	S-Africa  SUL EXT Surface RF = -0.391011
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT Surface RF = -1.57924
+(0)	ALL INT Surface RF = -2.31295
+(0)	ALL delta INT Surface RF = -0.733711
+(0)	BC EXT Surface RF = -0.196721
+(0)	SUL EXT Surface RF = -1.07808
+(0)	China  ALL EXT Surface RF = -3.00593
+(0)	China  ALL INT Surface RF = -4.8316
+(0)	China  ALL delta INT Surface RF = -1.82567
+(0)	China  BC EXT Surface RF = -0.735676
+(0)	China  SUL EXT Surface RF = -1.60706
+(0)	WarmPool  ALL EXT Surface RF = -2.55304
+(0)	WarmPool  ALL INT Surface RF = -3.97726
+(0)	WarmPool  ALL delta INT Surface RF = -1.42421
+(0)	WarmPool  BC EXT Surface RF = -0.408459
+(0)	WarmPool  SUL EXT Surface RF = -1.63943
+(0)	W-Africa  ALL EXT Surface RF = -3.58297
+(0)	W-Africa  ALL INT Surface RF = -6.40412
+(0)	W-Africa  ALL delta INT Surface RF = -2.82116
+(0)	W-Africa  BC EXT Surface RF = -1.46662
+(0)	W-Africa  SUL EXT Surface RF = -0.779751
+(0)	E-Africa  ALL EXT Surface RF = -2.46912
+(0)	E-Africa  ALL INT Surface RF = -4.45252
+(0)	E-Africa  ALL delta INT Surface RF = -1.98339
+(0)	E-Africa  BC EXT Surface RF = -1.19907
+(0)	E-Africa  SUL EXT Surface RF = -0.177356
+(0)	S-Africa  ALL EXT Surface RF = -2.86289
+(0)	S-Africa  ALL INT Surface RF = -5.07018
+(0)	S-Africa  ALL delta INT Surface RF = -2.20729
+(0)	S-Africa  BC EXT Surface RF = -1.01783
+(0)	S-Africa  SUL EXT Surface RF = -0.896092
+
+Variable: diff_rf_i
+Type: float
+Total Size: 51840 bytes
+            12960 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 90] x [lon | 144]
+Coordinates: 
+            lat: [-89.494384765625..89.494384765625]
+            lon: [1.25..358.75]
+Number Of Attributes: 1
+  _FillValue :	-999
+(0)	ALL EXT Surface RF = -1.98058
+(0)	ALL INT Surface RF = -2.82737
+(0)	ALL delta INT Surface RF = -0.846795
+(0)	BC EXT Surface RF = -0.386377
+(0)	SUL EXT Surface RF = -1.30368
+(0)	China  ALL EXT Surface RF = -5.08852
+(0)	China  ALL INT Surface RF = -8.03749
+(0)	China  ALL delta INT Surface RF = -2.94897
+(0)	China  BC EXT Surface RF = -1.3047
+(0)	China  SUL EXT Surface RF = -2.75559
+(0)	WarmPool  ALL EXT Surface RF = -4.37754
+(0)	WarmPool  ALL INT Surface RF = -6.9847
+(0)	WarmPool  ALL delta INT Surface RF = -2.60716
+(0)	WarmPool  BC EXT Surface RF = -1.10285
+(0)	WarmPool  SUL EXT Surface RF = -2.41458
+(0)	W-Africa  ALL EXT Surface RF = -4.76665
+(0)	W-Africa  ALL INT Surface RF = -8.27583
+(0)	W-Africa  ALL delta INT Surface RF = -3.50918
+(0)	W-Africa  BC EXT Surface RF = -1.99412
+(0)	W-Africa  SUL EXT Surface RF = -1.24958
+(0)	E-Africa  ALL EXT Surface RF = -3.44787
+(0)	E-Africa  ALL INT Surface RF = -5.97134
+(0)	E-Africa  ALL delta INT Surface RF = -2.52346
+(0)	E-Africa  BC EXT Surface RF = -1.70941
+(0)	E-Africa  SUL EXT Surface RF = -0.473921
+(0)	S-Africa  ALL EXT Surface RF = -3.14358
+(0)	S-Africa  ALL INT Surface RF = -5.43989
+(0)	S-Africa  ALL delta INT Surface RF = -2.29632
+(0)	S-Africa  BC EXT Surface RF = -1.36202
+(0)	S-Africa  SUL EXT Surface RF = -0.774859
